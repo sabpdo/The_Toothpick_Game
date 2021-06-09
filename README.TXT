@@ -3,4 +3,3 @@ I coded an online version of the toothpick game for my final exam for AP Compute
 In this game, two players pick toothpicks with the goal of taking the last toothpick. There is an option to play with another player as well as a easy, 
 medium, and hard computer. 
 
-
