@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+I coded an online version of the toothpick game for my final exam for AP Computer Science A in December 2020 with Java in BlueJay. 
+In this game, two players pick toothpicks with the goal of taking the last toothpick. There is an option to play with another player as well as a easy, 
+medium, and hard computer. 
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+
